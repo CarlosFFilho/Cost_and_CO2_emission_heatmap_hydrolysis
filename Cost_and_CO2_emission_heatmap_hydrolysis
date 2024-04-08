@@ -1,3 +1,5 @@
+# IMPORTANDO BIBLIOTECAS
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -74,6 +76,7 @@ operational_df.insert(6, "CTC (US$)", CTC) #Inserindo o CTC no dataframe operaci
 operational_df.insert(7, "TAC (US$)", TAC) #Inserindo o TAC no dataframe operacional
 operational_df.insert(8, "PBP (anos)", PBP) #Inserindo o PBP no dataframe operacional
 operational_df.insert(9, "Emissão de CO2 (kg/h)", CO2) #Inserindo a emissão de CO2 no dataframe operacional
+
 
 # IDENTIFICANDO A INSTENSIDADE DA CORRELAÇÃO ENTRE AS VARIÁVEIS DE PROJETO (HEATMAP)
 
