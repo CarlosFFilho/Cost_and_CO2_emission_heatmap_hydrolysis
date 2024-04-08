@@ -11,10 +11,8 @@ The purpose of this project is to construct a heatmap that identifies the intens
 
   - Python;
   - Pandas;
-  - Matplotlib;
   - Numpy;
-  - Seaborn;
-  - Scikit-learn.
+  - Seaborn.
 
 
 ## How to execute?
